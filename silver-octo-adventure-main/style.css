@@ -1,0 +1,13 @@
+a{
+    font-size: 30px;
+    color:red;
+}
+
+.navigation_tab{
+        background-color:purple;
+        display:flex;
+        flex-wrap:wrap;
+        justify-content:space-evenly;
+        align-items:center;
+        margin-top:-20px;
+    }
