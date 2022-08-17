@@ -11,3 +11,11 @@ a{
         align-items:center;
         margin-top:-20px;
     }
+#Pollution_text{
+   font-size: 20px;
+   font-family: 'Times New Roman';
+}
+.List_of_Pollution{
+    font-size: 20px;
+    font-family: 'Times New Roman';
+}
