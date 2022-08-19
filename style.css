@@ -1,10 +1,10 @@
 a{
     font-size: 30px;
-    color:red;
+    color:rgb(255, 0, 0);
 }
 
 .navigation_tab{
-        background-color:purple;
+        background-color:rgb(115, 50, 115);
         display:flex;
         flex-wrap:wrap;
         justify-content:space-evenly;
@@ -14,7 +14,7 @@ a{
 
     .links{
         justify-content:space-evenly;
-        background-color:blue;
+        background-color:rgb(44, 44, 185);
         font-size:20px
     }
 
@@ -24,12 +24,11 @@ a{
     }
 
     .soil_pollution{
-        background-color:lightsteelblue;
+        background-color:rgb(255, 225, 187);
     }
 
     .paragraph{
-        color:red;
-        background-color:burlywood;
+        color:rgb(233, 19, 19);
         text-indent:25px;
     }
 
@@ -45,5 +44,5 @@ a{
 
 #sources_links{
     font-size:20px;
-    color:aquamarine;
+    color:rgb(47, 144, 224);
 }
