@@ -18,14 +18,24 @@ a{
         font-size:10px
     }
 
+    .Pollution_List{
+        font-size: 20px;
+        font-family: 'Times New Roman';
+    }
+
+    .soil_pollution{
+        background-color:lightsteelblue;
+    }
+
+    .paragraph{
+        color:red;
+        background-color:burlywood;
+        text-indent:25px;
+    }
+
 #Pollution_text{
    font-size: 20px;
    font-family: 'Times New Roman';
-}
-
-.Pollution_List{
-    font-size: 20px;
-    font-family: 'Times New Roman';
 }
 
 #Title{
