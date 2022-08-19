@@ -15,7 +15,7 @@ a{
     .links{
         justify-content:space-evenly;
         background-color:blue;
-        font-size:20px
+        font-size:10px
     }
 
     .Pollution_List{
@@ -41,9 +41,4 @@ a{
 #Title{
     font-size: 30px;
     font-family: 'Times New Roman';
-}
-
-#sources_links{
-    font-size:20px;
-    color:aquamarine;
 }
