@@ -3,6 +3,11 @@ a{
     color:rgb(255, 0, 0);
 }
 
+img{
+    height:300px;
+    width:300px;
+}
+
 .navigation_tab{
         background-color:rgb(115, 50, 115);
         display:flex;
